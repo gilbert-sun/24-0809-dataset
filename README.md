@@ -8,10 +8,10 @@
 
 The features of this turbine video/wave data includes:
 ------
-- video_data  
-_ *csv
-_ *video
-_ *pict
+- video_data/  
+_ *csv/
+_ *video/
+_ *pict/
 _ *model_curve
 
 - wave_data/6db/bwind/id_00/normal
